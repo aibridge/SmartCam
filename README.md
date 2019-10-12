@@ -1,5 +1,6 @@
 1. Run the following after cd to this dir: pip install -r requirements.txt
 2. Run init.sh
+2.1 Change folder names accoarding to comments on init.sh file
 3. Copy and replace contents of REPLACE folder into this folder
 4. Put your image with the name 'test.jpg' in the input folder
 5. Download vgg weights from:
